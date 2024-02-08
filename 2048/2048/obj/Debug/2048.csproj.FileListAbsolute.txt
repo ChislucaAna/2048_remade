@@ -1,0 +1,10 @@
+C:\Users\anach\OneDrive\Desktop\2048\2048\obj\Debug\2048.csproj.AssemblyReference.cache
+C:\Users\anach\OneDrive\Desktop\2048\2048\obj\Debug\_2048.Form1.resources
+C:\Users\anach\OneDrive\Desktop\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+C:\Users\anach\OneDrive\Desktop\2048\2048\obj\Debug\2048.csproj.GenerateResource.cache
+C:\Users\anach\OneDrive\Desktop\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+C:\Users\anach\OneDrive\Desktop\2048\2048\bin\Debug\2048.exe.config
+C:\Users\anach\OneDrive\Desktop\2048\2048\bin\Debug\2048.exe
+C:\Users\anach\OneDrive\Desktop\2048\2048\bin\Debug\2048.pdb
+C:\Users\anach\OneDrive\Desktop\2048\2048\obj\Debug\2048.exe
+C:\Users\anach\OneDrive\Desktop\2048\2048\obj\Debug\2048.pdb
